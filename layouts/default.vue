@@ -1,11 +1,11 @@
-<template>
+<template>n
   <div class="min-h-screen flex flex-col">
     <header class="border-b-1 border-gray-300/70 dark:border-gray-700/70">
       <div class="max-w-4xl mx-auto px-4">
         <div class="flex justify-between items-center h-16">
           <!-- 왼쪽: 로고 -->
           <div class="flex items-center">
-            <NuxtLink to="/" class="text-xl font-bold">플래시카드.</NuxtLink>
+            <NuxtLink to="/" class="text-xl font-bold">휘낭시에.</NuxtLink>
           </div>
 
           <!-- 오른쪽: 사용자 메뉴 -->
